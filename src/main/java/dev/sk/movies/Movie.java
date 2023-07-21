@@ -15,7 +15,7 @@ import java.util.List;
 public class Movie {
     @Id
     private ObjectId objectId;
-    private String imbId;
+    private String imdbId;
     private String title;
     private String releaseDate;
     private String trailerLink;
