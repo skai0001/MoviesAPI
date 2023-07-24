@@ -17,5 +17,8 @@ body {
    "imdbId": "tt3915174"
    }
 
-Movie API:
+Movie API Link:
+https://developer.themoviedb.org/docs/image-basics
+
+Movies Posters & Backdrops:
 https://www.themoviedb.org/
